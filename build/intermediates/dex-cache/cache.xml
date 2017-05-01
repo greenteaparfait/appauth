@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c5d6b8bff99c9be90915b558001ac8f8f9bcb77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_38d69a66cb29b6f37045e52d95fbdd9c9f260773\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ffb9233e25ca64168ed18958dbf8b05ac46d024a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_41587f32701a1f7a21861c5b2cb963ced31e3a78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f2811790db4a5866fe6477b59311a17ec46c7108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="764c024deec848ab49427bdc2538ff3cbd82631e">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f673b760fbdfe820785b791d91095b5cd129173a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="596fcec5b5b7080d2e5525dae976b5e9967a6b22">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.2.0_94555a381d0935cc487911c47c5a2417e9979e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_20edd9028c1324ef2906298ac640a43bd01053e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_15fb7fd8d59c4b8043119439342e20ca15756424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Onejae\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_74e4dd1372739f8414c86190d1dafdc62fbddfed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_58a3cc56a4a194403cd805ffb3d3b69421adab1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Onejae\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_5d836a6dabf54345d3b8465d63eb785a3da5067b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_27f778990e442d217a997fe49e3fdbc2a9e339ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_21f60dc706f683ca180d979053c7c844cbb91555\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a04c911425970b196b88f05369a0ad8d10f1cff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\net.openid\appauth\0.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f1f43c671e80e73e944c4db00f2052530a9bb881">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.openid-appauth-0.2.0_76fd79177c8cc99df7c20cedd8dfa2f11189415b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_39af22aa343e3d8b0e31e7ee9ec8d99bc8cec22b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7dd62de0d799a85ecf3553f1efb037901ec2a6ab">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6f8f3b9b0637fb15ea6e4d9433ecd164c0666aa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_196f3c31808dce5a76191e3d986b05c1701f02d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8c9eb8d5de551a983285c3377ae68bf75975bca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Onejae\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_72881c534e5008317f511b83d054035cc59107ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Onejae\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_79977ac6811c1723c488a2fa81e17b14fb221198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_a19e9ceabb49f9b121c90dec59c012245c22b831\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects-copy\appauth-android_codelab_init\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_78416cdb57e3a8d5361ca3e66721e2ed73035ee9\classes.dex" />
+    </item>
+
+</items>
